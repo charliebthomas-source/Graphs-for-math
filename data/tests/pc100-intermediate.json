@@ -1,0 +1,211 @@
+{
+  "id": "pc100-intermediate-2026",
+  "title": "PC100 Intermediate",
+  "subtitle": "2026",
+  "level": "intermediate",
+  "arenaSize": "small",
+  "movements": [
+    {
+      "number": 1,
+      "marker": "A",
+      "instruction": "Enter in working trot. Proceed down the centre line without halting.",
+      "marks": 10,
+      "coefficient": null,
+      "criteria": "Accuracy of entry. Straightness on centre line. Quality and regularity of trot.",
+      "pathType": "straight",
+      "pathPoints": [{"x": 100, "y": 400}, {"x": 100, "y": 200}]
+    },
+    {
+      "number": 2,
+      "marker": "X",
+      "instruction": "Halt. Salute. Proceed in working trot.",
+      "marks": 10,
+      "coefficient": null,
+      "criteria": "Square and straight halt. Immobility. Prompt smooth transitions from and to trot.",
+      "pathType": "halt",
+      "pathPoints": [{"x": 100, "y": 200}]
+    },
+    {
+      "number": 3,
+      "marker": "C",
+      "instruction": "Track left. Working trot.",
+      "marks": 10,
+      "coefficient": null,
+      "criteria": "Quality of trot. Bend through corner. Balance and rhythm.",
+      "pathType": "straight",
+      "pathPoints": [{"x": 100, "y": 0}, {"x": 0, "y": 60}]
+    },
+    {
+      "number": 4,
+      "marker": "H-X-F",
+      "instruction": "Change the rein in working trot.",
+      "marks": 10,
+      "coefficient": null,
+      "criteria": "Straightness on diagonal. Accuracy at X and F. Balance. Quality of trot.",
+      "pathType": "diagonal",
+      "pathPoints": [{"x": 0, "y": 60}, {"x": 200, "y": 340}]
+    },
+    {
+      "number": 5,
+      "marker": "A",
+      "instruction": "20m circle right in working trot.",
+      "marks": 10,
+      "coefficient": null,
+      "criteria": "Shape and size of circle. Bend throughout. Balance and rhythm.",
+      "pathType": "circle",
+      "pathCenter": {"x": 100, "y": 300},
+      "pathRadius": 100,
+      "pathDirection": "right"
+    },
+    {
+      "number": 6,
+      "marker": "Between K & E",
+      "instruction": "Working canter, right lead.",
+      "marks": 10,
+      "coefficient": null,
+      "criteria": "Correct lead. Smooth upward transition. Balance of canter.",
+      "pathType": "straight",
+      "pathPoints": [{"x": 0, "y": 340}, {"x": 0, "y": 200}]
+    },
+    {
+      "number": 7,
+      "marker": "E",
+      "instruction": "20m circle right in working canter.",
+      "marks": 10,
+      "coefficient": null,
+      "criteria": "Correct lead. Shape and size of circle. Bend. Balance throughout.",
+      "pathType": "circle",
+      "pathCenter": {"x": 100, "y": 200},
+      "pathRadius": 100,
+      "pathDirection": "right"
+    },
+    {
+      "number": 8,
+      "marker": "Between M & C",
+      "instruction": "Working trot.",
+      "marks": 10,
+      "coefficient": null,
+      "criteria": "Smooth downward transition. Balance. Quality of trot.",
+      "pathType": "straight",
+      "pathPoints": [{"x": 200, "y": 60}, {"x": 100, "y": 0}]
+    },
+    {
+      "number": 9,
+      "marker": "C-H-E",
+      "instruction": "Serpentine of 3 loops, each 20m wide, in working trot.",
+      "marks": 10,
+      "coefficient": null,
+      "criteria": "Accuracy of loops. Straightness across centre line. Regularity of trot.",
+      "pathType": "serpentine",
+      "pathPoints": [
+        {"x": 100, "y": 0},
+        {"x": 0, "y": 133},
+        {"x": 100, "y": 133},
+        {"x": 200, "y": 267},
+        {"x": 100, "y": 267},
+        {"x": 0, "y": 200}
+      ]
+    },
+    {
+      "number": 10,
+      "marker": "E-X-B",
+      "instruction": "Working trot across the school.",
+      "marks": 10,
+      "coefficient": null,
+      "criteria": "Straightness across school. Balance. Accuracy of turns.",
+      "pathType": "straight",
+      "pathPoints": [{"x": 0, "y": 200}, {"x": 200, "y": 200}]
+    },
+    {
+      "number": 11,
+      "marker": "Between B & M",
+      "instruction": "Working canter, left lead.",
+      "marks": 10,
+      "coefficient": null,
+      "criteria": "Correct lead. Smooth upward transition. Balance.",
+      "pathType": "straight",
+      "pathPoints": [{"x": 200, "y": 200}, {"x": 200, "y": 60}]
+    },
+    {
+      "number": 12,
+      "marker": "C",
+      "instruction": "20m circle left in working canter.",
+      "marks": 10,
+      "coefficient": null,
+      "criteria": "Correct lead. Shape and size of circle. Bend. Balance.",
+      "pathType": "circle",
+      "pathCenter": {"x": 100, "y": 100},
+      "pathRadius": 100,
+      "pathDirection": "left"
+    },
+    {
+      "number": 13,
+      "marker": "M-X-K",
+      "instruction": "Change the rein across diagonal. Between X and K, simple change through trot to canter right.",
+      "marks": 10,
+      "coefficient": null,
+      "criteria": "Straightness on diagonal. Clear trot steps. Correct lead. Balance.",
+      "pathType": "diagonal",
+      "pathPoints": [{"x": 200, "y": 60}, {"x": 0, "y": 340}]
+    },
+    {
+      "number": 14,
+      "marker": "A",
+      "instruction": "20m circle right in working canter.",
+      "marks": 10,
+      "coefficient": null,
+      "criteria": "Correct lead. Shape and size of circle. Bend. Balance.",
+      "pathType": "circle",
+      "pathCenter": {"x": 100, "y": 300},
+      "pathRadius": 100,
+      "pathDirection": "right"
+    },
+    {
+      "number": 15,
+      "marker": "Between F & B",
+      "instruction": "Working trot.",
+      "marks": 10,
+      "coefficient": null,
+      "criteria": "Smooth downward transition. Balance. Quality of trot.",
+      "pathType": "straight",
+      "pathPoints": [{"x": 200, "y": 340}, {"x": 200, "y": 200}]
+    },
+    {
+      "number": 16,
+      "marker": "Between E & K",
+      "instruction": "Free walk on a long rein.",
+      "marks": 10,
+      "coefficient": 2,
+      "criteria": "Overtrack. Freedom and regularity. Swing through back. Stretch to contact. Horse's balance.",
+      "pathType": "straight",
+      "pathPoints": [{"x": 0, "y": 200}, {"x": 0, "y": 340}]
+    },
+    {
+      "number": 17,
+      "marker": "K-A-F",
+      "instruction": "Working walk.",
+      "marks": 10,
+      "coefficient": null,
+      "criteria": "Regularity and activity. Straightness through corners. Balance.",
+      "pathType": "straight",
+      "pathPoints": [{"x": 0, "y": 340}, {"x": 100, "y": 400}, {"x": 200, "y": 340}]
+    },
+    {
+      "number": 18,
+      "marker": "B",
+      "instruction": "Turn right. D-X-G centre line. G halt. Salute. Leave arena at A in walk.",
+      "marks": 10,
+      "coefficient": null,
+      "criteria": "Accurate turn. Straight centre line. Square halt. Immobility.",
+      "pathType": "straight",
+      "pathPoints": [{"x": 200, "y": 200}, {"x": 100, "y": 200}, {"x": 100, "y": 400}]
+    }
+  ],
+  "collectives": [
+    {"label": "Paces", "marks": 10, "coefficient": 1},
+    {"label": "Impulsion", "marks": 10, "coefficient": 1},
+    {"label": "Submission", "marks": 10, "coefficient": 1},
+    {"label": "Position and Seat of Rider", "marks": 10, "coefficient": 1}
+  ],
+  "maxScore": 230
+}
